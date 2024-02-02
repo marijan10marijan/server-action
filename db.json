@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": "752e9061-2486-43ea-8cb0-dc38a59b1163",
+      "name": "Maja",
+      "email": "maja@gmail.com",
+      "text": "moj novi text"
+    },
+    {
+      "id": "752e9061-2486-43ea-8cb0-dc38a59b1163",
+      "name": "Maja",
+      "email": "maja@gmail.com",
+      "text": "moj novi text"
+    }
+  ]
+}
