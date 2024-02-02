@@ -1,16 +1,11 @@
 {
   "users": [
     {
-      "id": "752e9061-2486-43ea-8cb0-dc38a59b1163",
-      "name": "Maja",
-      "email": "maja@gmail.com",
-      "text": "moj novi text"
-    },
-    {
-      "id": "752e9061-2486-43ea-8cb0-dc38a59b1163",
-      "name": "Maja",
-      "email": "maja@gmail.com",
-      "text": "moj novi text"
+      "id": "b4bd007a-690b-46a3-9966-90a6ed836317",
+      "name": "Marijan Markovic",
+      "email": "mmarijan39@gmail.com",
+      "age": 100,
+      "text": "e deda "
     }
   ]
 }

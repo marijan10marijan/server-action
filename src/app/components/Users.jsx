@@ -1,5 +1,6 @@
 import React from "react";
 import { getUsers } from "../fetch/getUsers";
+import DeleteButton from "./DeleteButton";
 
 const Users = async () => {
   const users = await getUsers();
@@ -14,7 +15,11 @@ const Users = async () => {
           <div className="flex-grow">
             <p className="text-sm">{user.name}</p>
             <p className="text-sm">{user.email}</p>
+            <p className="text-sm">{user.age}</p>
             <p className="text-sm">{user.text}</p>
+          </div>
+          <div>
+            <DeleteButton user={user} />
           </div>
         </div>
       ))}
